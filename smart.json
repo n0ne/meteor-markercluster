@@ -1,0 +1,8 @@
+{
+  "packages": {
+    "iron-router": {},
+    "leaflet": {},
+    "leaflet-markercluster": {},
+    "bootstrap-3": {}
+  }
+}
